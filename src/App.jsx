@@ -9,18 +9,19 @@ import Testimonials from "./component/testimonials/testimonials";
 import Contact from "./component/contact/contact";
 import Footer from "./component/footer/footer";
 
-
-function App(){
-    return(<div><Header/>
-    <Nav/>
-    <About/>
-    <Experience/>
-    <Services/>
-    <Portfolio/>
-    <Testimonials/>
-    <Contact/>
-    <Footer/>
+function App() {
+  return (
+    <div>
+      <Header />
+      <Nav />
+      <About />
+      <Experience />
+      {/* <Services/> */}
+      <Portfolio />
+      {/* <Testimonials /> */}
+      <Contact />
+      <Footer />
     </div>
-    );
+  );
 }
 export default App;
