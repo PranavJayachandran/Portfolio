@@ -43,7 +43,7 @@
   padding: 2rem;
   text-align: center;
   transition: var(--transition);
-  width: 190px;
+  width: 250px;
 }
 
 .about_card:hover {

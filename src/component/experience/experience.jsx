@@ -35,6 +35,14 @@ function experience() {
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
+            
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Angular</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
 
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
@@ -76,6 +84,14 @@ function experience() {
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
                 <h4>MongoDB</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+
+             <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>.Net</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>

@@ -35,14 +35,7 @@ const data = [
     title: "Netflix Clone",
     github: "https://github.com/PranavJayachandran/neflix-clone",
     link: "https://netflix-clone-1c7dc.web.app/",
-  },
-  {
-    id: 1,
-    image: IMG5,
-    title: "Front End For Chat App",
-    github: "https://github.com/PranavJayachandran/chatting-app",
-    link: "https://chatting-app-90d74.web.app/",
-  },
+  }
 ];
 
 function portfolio() {

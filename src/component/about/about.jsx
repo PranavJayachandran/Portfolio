@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/me-2.png";
+import ME from "../../assets/me-2.jpeg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { AiFillFolder } from "react-icons/ai";
@@ -33,14 +33,8 @@ function about() {
               <h5>Wed Developer</h5>
               <br></br>
               <small className="gap">
-                HTML CSS JS REACTJS NODEJS EXPRESSJS
+                HTML, CSS, JS, TS, ReactJs, Go, .NET, NodeJS, ExpressJS, Angular
               </small>
-            </article>
-            <article className="about_card">
-              <AiFillFolder className="about_icon" />
-              <h5>Projects</h5>
-              <br></br>
-              <small className="gap">Over 10 projects</small>
             </article>
           </div>
           <p>
